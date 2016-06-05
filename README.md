@@ -1,3 +1,5 @@
+Test fork kiki maaf baru tau cara make github hehe
+
 # Cara Memakai R
 Guys ni udah sempat cari2 tutorial, dicoba2 dulu ya.
 
